@@ -20,14 +20,13 @@ Here, you find guidance on:
 Depending on the type of sequencing data you have, three tailored workflows are available:  
 **1.	Whole-Genome Resequencing** – For studies with sequencing data that cover the entire genome and a reference genome is available for the focal species or a close relative.  
 **2.	RAD/GBS with Reference Genome** – For datasets generated via Restriction-site Associated DNA (RADseq) or Genotyping-by-Sequencing (GBS), where a reference genome is available.  
-**3.	RAD/GBS without Reference Genome** – For situations where RAD or GBS data are available but no reference genome exists, providing a de novo approach to analyze genetic variation.  
-Each workflow is modular and reproducible, guiding you from raw data to meaningful biological insights.
+
 
 
 ## Workflows
 - [Whole-Genome Resequencing Data](./whole_genome_resequencing/)
 - [RAD/GBS with Reference Genome](./RAD_GBS_sequencing_with_reference_genome)
-- [RAD/GBS without Reference Genome](./rad_gbs_without_reference/)
+
 
 
 ## Acknowledgments
